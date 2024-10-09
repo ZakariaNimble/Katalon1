@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Mozilla Thunderbird</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>ef148f9c-02e6-4f4d-b4fa-42ff1b14d5ff</testCaseGuid>
+</TestCaseEntity>
